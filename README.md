@@ -1,6 +1,5 @@
-<div align="center">
-  &nbsp;&nbsp;
-  <img
+<div align="center">  
+  &nbsp;&nbsp;<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +13,7 @@
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    width="70px"
+    width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
