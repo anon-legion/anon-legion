@@ -40,7 +40,7 @@
 
 <div align="center">
   <h3><strong>Connect with me</strong></h3>
-  <br>
+  <br>  
   <a href="https://discordapp.com/users/anonlegion#0586" target="_blank" rel="noreferrer nofollow">
     <img height="45" width="45" src="./img/discord.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
