@@ -38,14 +38,13 @@
 
 ---
 
-
 <div align="center">
   <h3><strong>Connect with me</strong></h3>
   <br>
   <a href="https://discordapp.com/users/anonlegion#0586" target="_blank" rel="noreferrer nofollow">
     <img height="45" width="45" src="./img/discord.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gio-v" target="_blank">
+  <a href="https://www.linkedin.com/in/gio-v" target="_blank" rel="noreferrer nofollow">
     <img height="45" width="45" src="./img/linkedin.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:g.xmail@protonmail.com" target="_blank" rel="noreferrer nofollow">
@@ -55,4 +54,3 @@
     <img height="45" width="45" src="./img/telegram.svg"/>
   </a>
 </div>
-
