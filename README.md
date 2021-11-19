@@ -27,7 +27,7 @@
   <br/>
   <br/>
   <img 
-		src="https://github-readme-stats.vercel.app/api?username=anon-legion&count_private=true&show_icons=true&theme=github_dark&bg_color=000000&hide_border=true&custom_title=Gio%27s%20GitHub%20Stats"
+		src="https://github-readme-stats.vercel.app/api?username=anon-legion&count_private=true&show_icons=true&hide=issues&theme=github_dark&bg_color=000000&hide_border=true&custom_title=Gio%27s%20GitHub%20Stats"
   />
   <br/>
   <br/>
@@ -38,21 +38,20 @@
 
 ---
 
-<br>
 <div align="center">
-  <h2><strong>Connect with me</strong></h2>
+  <h3><strong>Connect with me</strong></h3>
   <br>
   <a href="https://discordapp.com/users/anonlegion#0586" target="_blank" rel="noreferrer nofollow">
-    <img height="50" width="50" src="./img/discord.svg"/>
+    <img height="45" width="45" src="./img/discord.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gio-v" target="_blank" rel="noreferrer nofollow">
-    <img height="50" width="50" src="./img/linkedin.svg"/>
+    <img height="45" width="45" src="./img/linkedin.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:g.xmail@protonmail.com" target="_blank" rel="noreferrer nofollow">
-    <img height="50" width="50" src="./img/protonmail.svg"/>
+    <img height="45" width="45" src="./img/protonmail.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/anon_legi0n" target="_blank" rel="noreferrer nofollow">
-    <img height="50" width="50" src="./img/telegram.svg"/>
+    <img height="45" width="45" src="./img/telegram.svg"/>
   </a>
 </div>
 
