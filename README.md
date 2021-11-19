@@ -38,13 +38,21 @@
 
 ---
 
+<br>
 <div align="center">
   <h2><strong>Connect with me</strong></h2>
-  &nbsp;&nbsp;
-  <a href="https://t.me/anon_legi0n" fill="#26A5E4">
-    <img fill="currentColor" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg"/>
+  <br>
+  <a href="https://discordapp.com/users/anonlegion#0586" target="_blank" rel="noreferrer nofollow">
+    <img height="50" width="50" src="./img/discord.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gio-v" fill="#26A5E4">
-    <img color="#26A5E4" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gio-v" target="_blank" rel="noreferrer nofollow">
+    <img height="50" width="50" src="./img/linkedin.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:g.xmail@protonmail.com" target="_blank" rel="noreferrer nofollow">
+    <img height="50" width="50" src="./img/protonmail.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/anon_legi0n" target="_blank" rel="noreferrer nofollow">
+    <img height="50" width="50" src="./img/telegram.svg"/>
+  </a>
 </div>
+
