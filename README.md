@@ -38,13 +38,21 @@
 
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 997893b4eefa0ff85702255c2ee0c75d1ad7a2cd
 <div align="center">
   <h3><strong>Connect with me</strong></h3>
   <br>
   <a href="https://discordapp.com/users/anonlegion#0586" target="_blank" rel="noreferrer nofollow">
     <img height="45" width="45" src="./img/discord.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<<<<<<< HEAD
   <a href="https://www.linkedin.com/in/gio-v" target="_blank" rel="noreferrer nofollow">
+=======
+  <a href="https://www.linkedin.com/in/gio-v" target="_blank">
+>>>>>>> 997893b4eefa0ff85702255c2ee0c75d1ad7a2cd
     <img height="45" width="45" src="./img/linkedin.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:g.xmail@protonmail.com" target="_blank" rel="noreferrer nofollow">
