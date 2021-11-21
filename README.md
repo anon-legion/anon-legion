@@ -40,7 +40,7 @@
 <div align="center">
   <h3><strong>Connect with me</strong></h3>
   <br>  
-  <a href="https://discordapp.com/users/842569824882262037" target="_blank" rel="noreferrer nofollow">
+  <a href="https://discordapp.com/channels/@me/842569824882262037" target="_blank" rel="noreferrer nofollow">
     <img height="45" width="45" src="./img/discord.svg"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gio-v" target="_blank" rel="noreferrer nofollow">
