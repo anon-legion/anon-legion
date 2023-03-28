@@ -20,7 +20,7 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
     width="60px"
   />&nbsp;&nbsp;
 <br/>
