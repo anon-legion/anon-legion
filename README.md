@@ -20,19 +20,20 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
-		width="60px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
+    width="60px"
   />&nbsp;&nbsp;
-  <br/>
-  <br/>
-  <img 
+<br/>
+<br/>
+<img 
 		src="https://github-readme-stats.vercel.app/api?username=anon-legion&count_private=true&show_icons=true&hide=issues&theme=github_dark&bg_color=000000&hide_border=true&custom_title=Gio%27s%20GitHub%20Stats"
   />
-  <br/>
-  <br/>
-  <img
+<br/>
+<br/>
+<img
     src="https://github-readme-streak-stats.herokuapp.com?user=anon-legion&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=4A8CD6&fire=1F6FEA&currStreakNum=C3D1D9&currStreakLabel=1F6FEA&sideLabels=5096E7"
   />
+
 </div>
 
 ---
