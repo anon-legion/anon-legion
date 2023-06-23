@@ -26,7 +26,7 @@
 <br/>
 <br/>
 <img 
-		src="https://github-readme-stats.vercel.app/api?username=anon-legion&count_private=true&show_icons=true&hide=issues&theme=github_dark&bg_color=000000&hide_border=true&custom_title=Gio%27s%20GitHub%20Stats"
+		src="https://legion-readme-stats-ma3u.vercel.app/api?username=anon-legion&count_private=true&show_icons=true&hide=issues&theme=github_dark&bg_color=000000&hide_border=true&custom_title=Gio%27s%20GitHub%20Stats"
   />
 <br/>
 <br/>
