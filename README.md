@@ -5,7 +5,7 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
